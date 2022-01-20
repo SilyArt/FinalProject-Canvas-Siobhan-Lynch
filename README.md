@@ -1,0 +1,8 @@
+# FinalProject-Canvas-Siobhan-Lynch
+A Canvas Art Gallery for all to enjoy!
+
+NOTE: I have updated the code for this project since some things did not work and weren't responsive or centered.
+
+The Live website: Final.Silyart.com
+
+The GitHub site: https://silyart.github.io/FinalProject-Canvas-Siobhan-Lynch/
