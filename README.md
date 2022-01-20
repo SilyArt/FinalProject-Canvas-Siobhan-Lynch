@@ -1,5 +1,6 @@
 # FinalProject-Canvas-Siobhan-Lynch
-A Canvas Art Gallery for all to enjoy!
+An Interactive Canvas Art Gallery for all to enjoy!
+
 
 NOTE: I have updated the code for this project since some things did not work and weren't responsive or centered.
 
