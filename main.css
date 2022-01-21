@@ -30,7 +30,7 @@ a {color:red;}
   box-sizing: border-box;
   display: inline-flex;
   background: black;
-  margin: 7% 20% 3%;
+  margin: 7% 25% 3%;
   padding: 3%;
   background-image: -webkit-gradient(linear, right top, left bottom, from(#111), to(#000));
   box-shadow: -1px 1px var(--blur) 1px rgba(0, 0, 0, 0.1), -2px 2px var(--blur) 1px rgba(0, 0, 0, 0.09), -3px 3px var(--blur) 1px rgba(0, 0, 0, 0.08), -4px 4px var(--blur) 1px rgba(0, 0, 0, 0.07), -5px 5px var(--blur) 1px rgba(0, 0, 0, 0.06), -6px 6px var(--blur) 1px rgba(0, 0, 0, 0.05), -7px 7px var(--blur) 1px rgba(0, 0, 0, 0.04), -8px 8px var(--blur) 1px rgba(0, 0, 0, 0.03), -9px 9px var(--blur) 1px rgba(0, 0, 0, 0.03), -10px 10px var(--blur) 1px rgba(0, 0, 0, 0.03), -11px 11px var(--blur) 1px rgba(0, 0, 0, 0.03), -12px 12px var(--blur) 1px rgba(0, 0, 0, 0.02), -13px 13px var(--blur) 1px rgba(0, 0, 0, 0.02), -14px 14px var(--blur) 1px rgba(0, 0, 0, 0.01), -15px 15px var(--blur) 1px rgba(0, 0, 0, 0.01), -16px 16px var(--blur) 1px rgba(0, 0, 0, 0.01);
@@ -55,8 +55,8 @@ canvas {
 }
 
 .title{
-  width:50%;
-  margin: 0 auto;
+  max-width:450px;
+  margin: 0% 25% 0% 25%;
   padding:10px;
   font-family: monospace;
   background: rgb( 255, 255, 0, 0.3);
