@@ -6,5 +6,5 @@ NOTE: I have updated the code for this project since some things did not work an
 
 The Live website: https://Final.Silyart.com/
 
-The GitHub site: https://silyart.github.io/FinalProject-Canvas-Siobhan-Lynch/
+The GitHub site: 
 
